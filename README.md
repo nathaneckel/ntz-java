@@ -24,7 +24,7 @@ This lab requires you to figure out how to take things from the command line and
 store text notes.
 You should work on it over the course of the week.
 
-## Why?
+## Why?#
 
 Keeping track of a small list of things to remember or stuff that needs doing is a pain.
 Remembering its location, manually accessing it, formatting it and all of the clicking that entails,
